@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+class FirstNonRepeatingCharacter {
+
+    // Method to find the first non-repeating character in a string
+    public static char findFirstNonRepeatingCharacter(String input) {
+        int[] frequency = new int[256];
+
+        for (int i = 0; i < input.length(); i++)
+            frequency[input.charAt(i)]++;
+
+        for (int i = 0; i < input.length(); i++) {
+            if (frequency[input.charAt(i)] == 1)
+                return input.charAt(i);
+        }
+
+        return '\0';
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter text: ");
+        String input = sc.nextLine();
+
+        char result = findFirstNonRepeatingCharacter(input);
+
+        if (result != '\0')
+            System.out.println("First non-repeating character: " + result);
+        else
+            System.out.println("No non-repeating character found");
+
+        sc.close();
+    }
+}
