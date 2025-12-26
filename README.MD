@@ -129,3 +129,16 @@ codebase/strings
 codebase/extra 
 
 ---
+### 🗓 Day 3 – Leet Code and Scenario Based problems  
+**(Date: 24-Dec-2025)**
+
+- Practiced and Solved Leet Code questions on Arrays.
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** 
+Leet Code : https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+Scenario based : https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase
+
+---
