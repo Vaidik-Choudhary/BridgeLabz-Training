@@ -1,6 +1,7 @@
+/.metadata/
 # Eclipse specific files
 .metadata/
-.setting/
+.settings/
 .classpath
 .project
 
