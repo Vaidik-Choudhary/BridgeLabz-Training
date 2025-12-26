@@ -113,3 +113,19 @@ codebase/arrays
 codebase/strings
 
 ---
+### 🗓 Day 2 – Built-in Functions & Extra Practice  
+**(Date: 23-Dec-2025)**
+
+- Practiced Java built-in functions.
+- Implemented utility programs such as:
+  - Temperature Converter
+- Improved understanding of:
+  - Input handling
+  - Type conversion
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
+codebase/extra 
+
+---
