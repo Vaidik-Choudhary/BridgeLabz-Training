@@ -1,7 +1,7 @@
 ### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -25,7 +25,7 @@ BridgeLabz-Training/
 
 ---
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+**(Date: 16-Dec-2025)**
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -35,7 +35,7 @@ BridgeLabz-Training/
 
 ---
 ### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
+**(Date: 17-Dec-2025)**
 
 - Studied Java programming elements:
   - Variables and data types
@@ -48,7 +48,7 @@ BridgeLabz-Training/
 
 ---
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
+**(Date: 18-Dec-2025)**
 
 - Studied logical constructs in Java:
   - if, if-else
@@ -95,5 +95,21 @@ codebase/arrays
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+
+---
+### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+
+### 🗓 Day 1 – String manipulation 
+**(Date: 22-Dec-2025)**
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
+codebase/strings
 
 ---
