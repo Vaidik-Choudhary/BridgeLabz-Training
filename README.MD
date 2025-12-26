@@ -31,7 +31,7 @@ BridgeLabz-Training/
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites 
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites) 
 
 ---
 ### 🗓 Day 3 – Programming Elements in Java  
@@ -44,7 +44,7 @@ BridgeLabz-Training/
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements 
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) 
 
 ---
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
@@ -64,7 +64,7 @@ BridgeLabz-Training/
   - Prime number check
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
@@ -80,8 +80,7 @@ BridgeLabz-Training/
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:**  https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
-codebase/arrays
+🔗 **Code Link:** [link]( https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 ### 🗓 Day 6 – Java Methods  
@@ -94,7 +93,7 @@ codebase/arrays
 - Practiced reusable logic using methods.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods 
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcrcodebase/methods) 
 
 ---
 ### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
@@ -109,8 +108,7 @@ codebase/arrays
 - Implemented programs for string manipulation.
 - Committed and pushed solutions to the repository.
 
-🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
-codebase/strings
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 ### 🗓 Day 2 – Built-in Functions & Extra Practice  
@@ -125,8 +123,8 @@ codebase/strings
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:** https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
-codebase/extra 
+🔗 **Code Link:** [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-
+codebase/extra) 
 
 ---
 ### 🗓 Day 3 – Leet Code and Scenario Based problems  
@@ -138,7 +136,8 @@ codebase/extra
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** 
-Leet Code : https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
-Scenario based : https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase
+Leet Code : [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+Scenario based : [link](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
