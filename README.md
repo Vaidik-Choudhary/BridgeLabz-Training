@@ -4,7 +4,7 @@
 **(Date: 26-Dec-2025)**
 
 - Learned the working of classes and objects in java
-- Solved Object and Class based prblems, level 1 and 2.
+- Solved Object and Class based problems, level 1 and 2.
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
@@ -16,7 +16,7 @@
 
 - Learned the working of Constructors in java
 - (Parameterised, Non-parameterised, and Copy constructor)
-- Solved Constructor based prblems from level 1.
+- Solved Constructor based problems from level 1.
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
