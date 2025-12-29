@@ -140,7 +140,6 @@ Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/
 Scenario based : [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
----
 ### 🗓 Day 4 – Scenario Based problems  
 **(Date: 26-Dec-2025)**
 
@@ -151,4 +150,15 @@ Scenario based : [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Train
 🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
+### 📅 Week 3: Object oriented concepts
 
+### 🗓 Day 1 – Scenario Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved Scenario based prblems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+
+---
