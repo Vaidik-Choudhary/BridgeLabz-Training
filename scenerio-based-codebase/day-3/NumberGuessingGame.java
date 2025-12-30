@@ -42,7 +42,6 @@ public class NumberGuessingGame {
                 hint = "Correct";
             }
 
-            // Manual spacing for table-like output
             System.out.println(attempts + "           " + guess + "          " + hint);
 
             if (guess == secretNumber) {
