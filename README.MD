@@ -114,51 +114,75 @@ BridgeLabz-Training/
 ### 🗓 Day 2 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
-- Practiced Java built-in functions.
+- Practised Java built-in functions.
 - Implemented utility programs such as:
   - Temperature Converter
 - Improved understanding of:
   - Input handling
   - Type conversion
-- Organized programs into proper folders.
+- Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [Extras](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra) 
 
 ---
-### 🗓 Day 3 – Leet Code and Scenario Based problems  
+### 🗓 Day 3 – LeetCode and Scenario-Based problems  
 **(Date: 24-Dec-2025)**
 
-- Practiced and Solved Leet Code questions on Arrays.
-- Solved Scenario based prblems.
-- Organized programs into proper folders.
+- Practised and solved LeetCode questions on Arrays.
+- Solved Scenario based problems.
+- Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** 
 Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
-Scenario based : [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
-### 🗓 Day 4 – Scenario Based problems  
+### 🗓 Day 4 – Scenario-Based problems  
 **(Date: 26-Dec-2025)**
 
-- Solved Scenario based prblems.
-- Organized programs into proper folders.
+- Solved scenario-based problems.
+- Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
-### 📅 Week 3: Object oriented concepts
+### 🗓 Day 5 – LeetCode problems  
+**(Date: 28-Dec-2025)**
 
-### 🗓 Day 1 – Scenario Based problems  
+- Solved LeetCode problems.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+### 📅 Week 3: Object-oriented concepts
+
+### 🗓 Day 1 – Scenario-Based problems  
 **(Date: 29-Dec-2025)**
 
-- Solved Scenario based prblems.
-- Organized programs into proper folders.
+- Solved scenario-based problems.
+- Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
+### 🗓 Day 2 – Scenario-Based problems and LeetCode 
+**(Date: 30-Dec-2025)**
+
+- Solved scenario-based and LeetCode problems.
+- Organised programs into proper folders.
+- Committed and pushed all changes successful.
+
+🔗 **Code Link:** 
+Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+
+---
+
