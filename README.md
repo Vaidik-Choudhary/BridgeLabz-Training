@@ -1,8 +1,8 @@
 # BridgeLabz-Training
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+## 📘 Section A : Training Learning Progress
 
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
----
-### 🗓 Day 1 – Git & GitHub Setup  
+### 🗓 Day 1 – Git & GitHub Setup 
 **(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
@@ -25,7 +25,6 @@ BridgeLabz-Training/
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 
----
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
 **(Date: 16-Dec-2025)**
 
@@ -35,7 +34,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Pre-Requisites](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisites) 
 
----
 ### 🗓 Day 3 – Programming Elements in Java  
 **(Date: 17-Dec-2025)**
 
@@ -48,7 +46,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Programming-Elements](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements) 
 
----
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
 **(Date: 18-Dec-2025)**
 
@@ -68,7 +65,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Control-Flows](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
----
 ### 🗓 Day 5 – Arrays & Basic Problem Solving  
 **(Date: 20-Dec-2025)**
 
@@ -84,7 +80,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Arrays]( https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
----
 ### 🗓 Day 6 – Java Methods  
 **(Date: 22-Dec-2025)**
 
@@ -97,7 +92,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Methods](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcrcodebase/methods) 
 
----
 ### 🗓 Day 7 – String manipulation 
 **(Date: 22-Dec-2025)**
 
@@ -110,7 +104,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [String](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
----
 ### 🗓 Day 8 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
@@ -126,65 +119,84 @@ BridgeLabz-Training/
 🔗 **Code Link:** [Extras](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra) 
 
 ---
-### 🗓 Day 9 – LeetCode and Scenario-Based problems  
+## 🧩 Section B : Scenario-Based Problems Progress
+
+### 🗓 Day 9 – Scenario-Based problems  
 **(Date: 24-Dec-2025)**
 
-- Practised and solved LeetCode questions on Arrays.
-- Solved Scenario based problems.
+- Solved scenario-based problems.
+- 2 problems
 - Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
-🔗 **Code Link:** 
-Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
-Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
-
----
-### 🗓 Day 10 – Scenario-Based problems  
+### 🗓 Day 11 – Scenario-Based problems  
 **(Date: 26-Dec-2025)**
 
 - Solved scenario-based problems.
+- 3 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+
+### 🗓 Day 14 – Scenario-Based problems  
+**(Date: 29-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+
+### 🗓 Day 15 – Scenario-Based problems 
+**(Date: 30-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
 - Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
 ---
-### 🗓 Day 11 – LeetCode problems  
-**(Date: 28-Dec-2025)**
+## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 9 – LeetCode problems  
+**(Date: 24-Dec-2025)**
 
 - Solved LeetCode problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+### 🗓 Day 13 – LeetCode problems  
+**(Date: 28-Dec-2025)**
+
+- Pushed LeetCode problems solved over four days.
+- 25 problems of four days.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+### 🗓 Day 15 – LeetCode problems  
+**(Date: 30-Dec-2025)**
+
+- Solved LeetCode problems.
+- 5 problems
 - Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:** [LeetCode](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
-### 🗓 Day 12 – Scenario-Based problems  
-**(Date: 29-Dec-2025)**
-
-- Solved scenario-based problems.
-- Organised programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
-
----
-### 🗓 Day 13 – Scenario-Based problems and LeetCode 
-**(Date: 30-Dec-2025)**
-
-- Solved scenario-based and LeetCode problems.
-- Organised programs into proper folders.
-- Committed and pushed all changes successful.
-
-🔗 **Code Link:** 
-Leet Code : [Leet-Code](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-
-Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
-
----
-### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
----
+# 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+## 📘 Section A : Training Learning Progress
 ### 🗓 Day 1 – Object and Classes  
 **(Date: 26-Dec-2025)**
 
@@ -195,7 +207,6 @@ Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Traini
 
 🔗 **Code Link:** [Classes](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
----
 ### 🗓 Day 2 – Constructors  
 **(Date: 27-Dec-2025)**
 
@@ -207,12 +218,11 @@ Scenario-based: [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Traini
 
 🔗 **Code Link:** [Constructor](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
----
 ### 🗓 Day 3 – this, final & static in Java
-(Date: 29-Dec-2025)
+**(Date: 29-Dec-2025)**
 
-Studied Java keywords:
-- this, static, and final
+- Studied Java keywords:
+   - this, static, and final
 - Understood the purpose and usage of each keyword.
 - Studied access modifiers in Java.
 - Learned instance vs class (static) variables and methods.
@@ -220,4 +230,24 @@ Studied Java keywords:
 
 🔗 **Code Link:** [Inbuilt](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunctions/levelone)
 
+### 🗓 Day 4 – Object Modeling & Real-World Design
+**(Date: 30-Dec-2025)**
+
+- Studied classes and objects and object modeling:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
+
+🔗 **Code Link:** [Object-Modelling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
+
 ---
+## 🧩 Section B : Scenario-Based Problems Progress
+---
+## 🧮 Section C : LeetCode-based Problems Progress
+
