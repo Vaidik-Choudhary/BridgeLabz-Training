@@ -161,6 +161,16 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
 
+### 🗓 Day 16 – Scenario-Based problems 
+**(Date: 31-Dec-2025)**
+
+- Solved scenario-based problems.
+- 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [Scenario](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/scenerio-based-codebase)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
@@ -189,6 +199,16 @@ BridgeLabz-Training/
 
 - Solved LeetCode problems.
 - 5 problems
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:** [LeetCode](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+### 🗓 Day 16 – LeetCode problems  
+**(Date: 31-Dec-2025)**
+
+- Solved LeetCode problems.
+- 3 string problems
 - Organised programs into proper folders.
 - Committed and pushed all changes successfully.
 
