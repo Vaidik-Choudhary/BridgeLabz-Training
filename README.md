@@ -1,4 +1,4 @@
-### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
+## 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
 
 ### 🗓 Day 1 – Object and Classes  
 **(Date: 26-Dec-2025)**
@@ -24,10 +24,10 @@
 
 ---
 ### 🗓 Day 3 – this, final & static in Java
-(Date: 29-Dec-2025)
+**(Date: 29-Dec-2025)**
 
-Studied Java keywords:
-- this, static, and final
+- Studied Java keywords:
+   - this, static, and final
 - Understood the purpose and usage of each keyword.
 - Studied access modifiers in Java.
 - Learned instance vs class (static) variables and methods.
@@ -37,17 +37,17 @@ Studied Java keywords:
 
 ---
 ### 🗓 Day 4 – Object Modeling & Real-World Design
-(Date: 30-Dec-2025)
+**(Date: 30-Dec-2025)**
 
--Studied classes and objects and object modeling:
- -Class Diagram
- -Object Diagrams
- -Sequence Diagrams
--Designed classes in Plain Old Java Object (POJO)
--Learned object relationships:
- -Association
- -Aggregation
- -Composition
--Committed and pushed all work.
+- Studied classes and objects and object modeling:
+  - Class Diagram
+  - Object Diagrams
+  - Sequence Diagrams
+- Designed classes in Plain Old Java Object (POJO)
+- Learned object relationships:
+  - Association
+  - Aggregation
+  - Composition
+- Committed and pushed all work.
 
-🔗 **Code Link:** [Inbuilt](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
+🔗 **Code Link:** [Object-Modelling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
