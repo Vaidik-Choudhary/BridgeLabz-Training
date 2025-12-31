@@ -1,6 +1,6 @@
 ### 📅 Week 2: Java Programming Fundamentals and Object oriented concepts
 
-### 🗓 Day 4 – Object and Classes  
+### 🗓 Day 1 – Object and Classes  
 **(Date: 26-Dec-2025)**
 
 - Learned the working of classes and objects in java
@@ -11,7 +11,7 @@
 🔗 **Code Link:** [Classes](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
-### 🗓 Day 5 – Constructors  
+### 🗓 Day 2 – Constructors  
 **(Date: 27-Dec-2025)**
 
 - Learned the working of Constructors in java
@@ -23,3 +23,31 @@
 🔗 **Code Link:** [Constructor](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 
 ---
+### 🗓 Day 3 – this, final & static in Java
+(Date: 29-Dec-2025)
+
+Studied Java keywords:
+- this, static, and final
+- Understood the purpose and usage of each keyword.
+- Studied access modifiers in Java.
+- Learned instance vs class (static) variables and methods.
+- Committed and pushed all work.
+
+🔗 **Code Link:** [Inbuilt](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunctions/levelone)
+
+---
+### 🗓 Day 4 – Object Modeling & Real-World Design
+(Date: 30-Dec-2025)
+
+-Studied classes and objects and object modeling:
+ -Class Diagram
+ -Object Diagrams
+ -Sequence Diagrams
+-Designed classes in Plain Old Java Object (POJO)
+-Learned object relationships:
+ -Association
+ -Aggregation
+ -Composition
+-Committed and pushed all work.
+
+🔗 **Code Link:** [Inbuilt](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
