@@ -266,8 +266,69 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Object-Modelling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
 
+### 🗓 Day 5 – Java Inheritance and Types
+**(Date: 31-Dec-2025)**
+- Studied inheritance and its types:
+  - Single level inheritance
+  - Multilevel inheritance
+  - Hierarchical inheritance
+  - Hybrid inheritance
+- Method Overriding and `@Override`
+- Constructor inheritance `super()` 
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
+  - `public`
+  - `protected`
+  - Default (no modifier)
+  - `private`
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Inheritance and Types](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+### 🗓 Day 6 – Java Encapsulation & Polymorphism
+**(Date: 01-Dec-2026)**
+- Studied Encapsulation & Polymorphism:
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+    - Runtime (Dynamic) Polymorphism
+  - Polymorphism with `interface`
+  - Polymorphism with `abstract` classes
+  - Casting and `instanceof` with Polymorphism
+- Practiced Abstract Classes & interfaces
+  - Abstract Class vs Interface
+  - Interface vs Class
+- Learned more about best practices. 
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Encapsulation & Polymorphism](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
 ---
-## 🧩 Section B : Scenario-Based Problems Progress
+## 🧩 Section B: Scenario-Based Problems Progress
+
+### 🗓 Day 7 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved 5 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)  
+
+### 🗓 Day 8 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+- Solved 2 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
+
 ---
-## 🧮 Section C : LeetCode-based Problems Progress
+## 🧮 Section C: LeetCode-based Problems Progress
+
+### 🗓 Day 8 – LeetCode-based Practice  
+**(Date: 03-Jan-2026)**
+- Practiced 5 array problems.
+- added main method.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/com)
 
