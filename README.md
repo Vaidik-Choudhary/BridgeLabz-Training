@@ -14,7 +14,7 @@
 - Understood basic operations and use cases of each.
 - Committed and pushed all work.
 - 🔗 **Code Link:**  
-👉 [LinkedLists and its types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlists)
+👉 [LinkedLists and its types](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)
  
 ### 🗓 Day 2 – Stack, Queue & HashMap
 **(Date: 05-Jan-2026)**
@@ -25,7 +25,22 @@
 - Understood basic operations and use cases of each.
 - Committed and pushed all work.
 - 🔗 **Code Link:**  
-👉 [Stack, Queue & HashMap](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/)
+👉 [Stack, Queue & HashMap](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com)
+
+### 🗓 Day 3 – Sorting Algorithms
+**(Date: 06-Jan-2026)**
+- Studied Sorting Algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+  - Heap Sort
+  - Counting Sort
+- Understood algorithms and solved problem on each.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Sorting Algorithms](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
@@ -34,3 +49,4 @@
 ## 🧮 Section C : LeetCode-based Problems Progress
 
 ---
+
