@@ -136,6 +136,14 @@
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
 
+### 🗓 Day 13 – Scenario-Based Practice  
+**(Date: 09-Jan-2026)**
+- Solved 3 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
+
 ---
 ## 🧮 Section C: LeetCode-based Problems Progress
 
@@ -165,6 +173,14 @@
 
 ### 🗓 Day 11 – LeetCode-based Practice  
 **(Date: 07-Jan-2026)**
+- Practiced an array problems.
+- added main method.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/com)
+
+### 🗓 Day 13 – LeetCode-based Practice  
+**(Date: 09-Jan-2026)**
 - Practiced an array problems.
 - added main method.
 - Committed and pushed all solutions.
