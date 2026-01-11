@@ -120,4 +120,5 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - 📌 [Sorting Algorithms](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
 - 📌 [Time & Space Complexity Analysis](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
+- 📌 [Scenario-Based Solutions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
 
