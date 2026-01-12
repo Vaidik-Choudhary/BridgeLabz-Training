@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class BrowserBuddy {
 
-    private class Node {
+    private static class Node {
         private String url;
         private Node prev;
         private Node next;
@@ -61,4 +61,3 @@ public class BrowserBuddy {
         }
     }
 }
-
