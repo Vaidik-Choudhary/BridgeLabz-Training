@@ -144,6 +144,14 @@
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
 
+### 🗓 Day 14 – Scenario-Based Practice  
+**(Date: 13-Jan-2026)**
+- Solved 3 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
+
 ---
 ## 🧮 Section C: LeetCode-based Problems Progress
 
@@ -165,7 +173,7 @@
 
 ### 🗓 Day 10 – LeetCode-based Practice  
 **(Date: 06-Jan-2026)**
-- Practiced an array problems.
+- Practiced an array problem.
 - added main method.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
@@ -173,7 +181,7 @@
 
 ### 🗓 Day 11 – LeetCode-based Practice  
 **(Date: 07-Jan-2026)**
-- Practiced an array problems.
+- Practiced an array problem.
 - added main method.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
@@ -181,7 +189,7 @@
 
 ### 🗓 Day 13 – LeetCode-based Practice  
 **(Date: 09-Jan-2026)**
-- Practiced an array problems.
+- Practiced an array problem.
 - added main method.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
@@ -189,7 +197,15 @@
 
 ### 🗓 Day 14 – LeetCode-based Practice  
 **(Date: 11-Jan-2026)**
-- Practiced an array problems.
+- Practiced an array problem.
+- added main method.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/com)
+
+### 🗓 Day 15 – LeetCode-based Practice  
+**(Date: 14-Jan-2026)**
+- Practiced 2 array problems.
 - added main method.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
