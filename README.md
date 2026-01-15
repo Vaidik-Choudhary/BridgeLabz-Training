@@ -54,6 +54,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 |  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 
 ---
 
@@ -87,6 +88,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **String Utilities**: StringBuilder and StringBuffer for mutable strings
 - **File Handling**: Reading input using FileReader and InputStreamReader
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 
 ---
 
