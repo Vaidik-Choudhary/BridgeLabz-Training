@@ -162,7 +162,7 @@
 
 ### 🗓 Day 16 – Scenario-Based Practice  
 **(Date: 19-Jan-2026)**
-- Solved 2 scenario-based problems.
+- Solved 3 scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
@@ -237,6 +237,14 @@
 ### 🗓 Day 17 – LeetCode-based Practice  
 **(Date: 17-Jan-2026)**
 - Practiced an array problem.
+- added main method.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src/com)
+
+### 🗓 Day 18 – LeetCode-based Practice  
+**(Date: 19-Jan-2026)**
+- Practiced 2 array problems.
 - added main method.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
