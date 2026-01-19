@@ -17,6 +17,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [dsa-practice](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
 ---
 
 ##  Learning Milestones
@@ -56,6 +59,12 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 |  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
+| 24  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                          |
+
 ---
 
 ##  Key Concepts Covered
@@ -90,6 +99,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 
+### Collections Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
+- **Collections**: List interface, Set interface, Queue interface, Dequeue interface, & Map interface
 ---
 
 ## 🔗 Quick Links
@@ -123,4 +135,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
 - 📌 [Time & Space Complexity Analysis](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 - 📌 [Scenario-Based Solutions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
+
+### `java-collections-practice` :
+- 📌 [Generics](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/generics)
+- 📌 [Collections](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/collections)
+
 
