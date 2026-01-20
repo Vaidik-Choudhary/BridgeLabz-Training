@@ -102,6 +102,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### Collections Framework (java-collections-practice)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
 - **Collections**: List interface, Set interface, Queue interface, Dequeue interface, & Map interface
+- **Streams**:
 ---
 
 ## 🔗 Quick Links
