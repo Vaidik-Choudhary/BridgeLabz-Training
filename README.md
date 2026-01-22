@@ -14,7 +14,7 @@
 - 🔗 **Code Link:**  
 👉 [Generics](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/generics)
 
-### 🗓 Day 24 – Java Generics Fundamentals
+### 🗓 Day 24 – Java Collections Fundamentals
 **(Date: 19-Jan-2026)**
 - Learned Overview of Collections Framework
 - `List` Interface and Implementing Classes
