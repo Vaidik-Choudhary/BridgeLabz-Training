@@ -63,7 +63,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
-| 24  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                          |
+| 23  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                          |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
 
 ---
 
@@ -102,7 +104,8 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### Collections Framework (java-collections-practice)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
 - **Collections**: List interface, Set interface, Queue interface, Dequeue interface, & Map interface
-- **Streams**:
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
+- **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 ---
 
 ## 🔗 Quick Links
@@ -140,5 +143,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### `java-collections-practice` :
 - 📌 [Generics](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/generics)
 - 📌 [Collections](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/collections)
+- 📌 [I/O Streams](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/streams)
+- 📌 [Exception Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/exceptionhandling)
 
 
