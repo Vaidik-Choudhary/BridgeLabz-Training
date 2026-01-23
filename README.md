@@ -2,7 +2,7 @@
 
 ## 📘 Section A : Training Learning Progress
 
-### 🗓 Day 22 – Java Generics Fundamentals
+### 🗓 Day 01 – Java Generics Fundamentals
 **(Date: 16-Jan-2026)**
 - Set up and revised the `java-collections-practice` branch structure.
 - Learned Java Generics for type-safe and reusable collection handling.
@@ -14,7 +14,7 @@
 - 🔗 **Code Link:**  
 👉 [Generics](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/generics)
 
-### 🗓 Day 24 – Java Collections Fundamentals
+### 🗓 Day 02 – Java Collections Fundamentals
 **(Date: 19-Jan-2026)**
 - Learned Overview of Collections Framework
 - `List` Interface and Implementing Classes
@@ -25,7 +25,7 @@
 - 🔗 **Code Link:**  
 👉 [Generics](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/collections)
 
-### 🗓 Day 24 – Java I/O Streams  
+### 🗓 Day 03 – Java I/O Streams  
 **(Date: 21-Jan-2026)**
 - Studied Java I/O Streams architecture and stream-based data handling.
 - Covered Byte Streams and Character Streams for file operations.
@@ -47,7 +47,7 @@
 - 🔗 **Code Link:**  
 👉 [Java I/O Streams](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/streams)
 
-### 🗓 Day 25 – Exception Handling
+### 🗓 Day 04 – Exception Handling
 **(Date: 23-Jan-2026)**
 - Studied Java exception handling and exception hierarchy.
 - Differentiated between checked and unchecked exceptions.
