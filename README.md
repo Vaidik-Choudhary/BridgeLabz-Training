@@ -66,7 +66,8 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 23  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                          |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 | 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
-
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 ---
 
 ##  Key Concepts Covered
@@ -106,6 +107,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Collections**: List interface, Set interface, Queue interface, Dequeue interface, & Map interface
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
+- **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 ---
 
 ## 🔗 Quick Links
@@ -145,5 +149,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - 📌 [Collections](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/collections)
 - 📌 [I/O Streams](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/streams)
 - 📌 [Exception Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/exceptionhandling)
+- 📌 [Regex - Regular Expressions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/regex)
+- 📌 [JUnit Testing](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/junit)
+- 📌 [Reflection](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/reflection)
+- 📌 [Annotations](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/annotations)
+- 📌 [Scenario-Based Solutions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
 
 
