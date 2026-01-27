@@ -17,8 +17,11 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [dsa-practice](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
-### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
+### 🔹 [java-collections-practice](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Collections Framework in Java
+
+### 🔹 [java-iostreams-practice](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
 
 ---
 
@@ -60,14 +63,23 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 
 ### **Week 4 : Collections Framework in Java**
+
+| Day |     Date    | Topic                          | Coverage                                                        |
+|-----|-------------|--------------------------------|-----------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | classes, methods, parameters, bounded types, wildcards          |
+| 23  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                      |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams              |
+| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested  |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions |
+| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies      |
+
+### **Week 5 : Java I/O Streams**
+
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
-| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
-| 23  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                          |
-| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
-| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
-| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
-| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
+| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
 ---
 
 ##  Key Concepts Covered
@@ -109,7 +121,12 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
-- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage
+
+### Java I/O Streams (java-iostreams-practice)
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
+- **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+  
 ---
 
 ## 🔗 Quick Links
@@ -155,4 +172,6 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - 📌 [Annotations](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblems/src/com/annotations)
 - 📌 [Scenario-Based Solutions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenerio-based-codebase/ScenarioBasedProblems/src/com)
 
-
+### `java-iostreams-practice` :
+- 📌 [CSV Data Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
+- 📌 [JSON Data Handling]()
