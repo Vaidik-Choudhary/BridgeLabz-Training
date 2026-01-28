@@ -174,4 +174,4 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
-- 📌 [JSON Data Handling]()
+- 📌 [JSON Data Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
