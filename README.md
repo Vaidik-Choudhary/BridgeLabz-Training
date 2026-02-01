@@ -87,6 +87,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
 ---
 
@@ -140,7 +141,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
 - **Method References**: Static, instance, and constructor references
 - **Interface Enhancements**: Default and static methods
-  
+- **Streams API**: Lazy evaluation, pipelines, parallel streams
+- **Collectors**: Grouping, partitioning, summarization, joining
+- **Workshop**: Real-world data processing using streams
+
 ---
 
 ## 🔗 Quick Links
@@ -189,3 +193,11 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 - 📌 [JSON Data Handling](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpression)
+- 📌 [Method References](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/interfaces)
+- 📌 [Streams](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
+- 📌 [Collectors](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+- 📌 [Workshop](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/smartcitymanagementsystem)
