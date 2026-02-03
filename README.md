@@ -66,28 +66,28 @@
 
 > ### **Week 4 : Collections Framework in Java**
 
-| Day |     Date    | Topic                          | Coverage                                                        |
-|-----|-------------|--------------------------------|-----------------------------------------------------------------|
-| 22  | 16-Jan      | Java Generics                  | classes, methods, parameters, bounded types, wildcards          |
-| 23  | 17-Jan      | Java Collections Frame-work    | List, Set, Queue, Dequeue, & Map interface                      |
-| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams              |
-| 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested  |
-| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions |
-| 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies      |
+| Day |     Date    | Topic                      | Coverage                                                        |
+|-----|-------------|----------------------------|-----------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics              | classes, methods, parameters, bounded types, wildcards          |
+| 23  | 17-Jan      | Java Collections Frame-work| List, Set, Queue, Dequeue, & Map interface                      |
+| 24  | 19-Jan      | Java I/O Streams           | Byte, character, buffered, object & bridge streams              |
+| 25  | 20-Jan      | Exception Handling         | Checked, unchecked, custom exceptions, try(resources) & nested  |
+| 26  | 21-Jan      | Regex & JUnit Testing      | Pattern matching, validations, groups, unit testing, assertions |
+| 27  | 22-Jan      | Annotations & Reflection   | Built-in & custom annotations, runtime inspection, proxies      |
 
 > ### **Week 5 : Java I/O Streams**
 
-| Day |     Date    | Topic                          | Coverage                                                            |
-|-----|-------------|--------------------------------|---------------------------------------------------------------------|
-| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
-| 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+| Day |     Date    | Topic                     | Coverage                                         |
+|-----|-------------|---------------------------|--------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java | Read/write CSV, validation, large-file processing|
+| 29  | 24-Jan      | JSON Data Handling in Java| JSON parsing, POJO mapping, schema validation, CSV to JSON|
 
 > ### **Week 6 : Java 8 Features**
 
-| Day |     Date    | Topic                          | Coverage                                                            |
-|-----|-------------|--------------------------------|---------------------------------------------------------------------|
-| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
-| 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
+| Day |     Date    | Topic               | Coverage                                         |
+|-----|-------------|---------------------|--------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces| Lambdas, functional interfaces, method references|
+| 31  | 28-Jan      | Streams & Collectors| Stream API, intermediate, terminal, collectors   |
 
 ---
 ##  *Key Concepts Covered*
