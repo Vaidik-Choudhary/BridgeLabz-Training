@@ -66,14 +66,14 @@
 
 > ### **Week 4 : Collections Framework in Java**
 
-| Day |     Date    | Topic                      | Coverage                                                        |
-|-----|-------------|----------------------------|-----------------------------------------------------------------|
-| 22  | 16-Jan      | Java Generics              | classes, methods, parameters, bounded types, wildcards          |
-| 23  | 17-Jan      | Java Collections Frame-work| List, Set, Queue, Dequeue, & Map interface                      |
-| 24  | 19-Jan      | Java I/O Streams           | Byte, character, buffered, object & bridge streams              |
-| 25  | 20-Jan      | Exception Handling         | Checked, unchecked, custom exceptions, try(resources) & nested  |
-| 26  | 21-Jan      | Regex & JUnit Testing      | Pattern matching, validations, groups, unit testing, assertions |
-| 27  | 22-Jan      | Annotations & Reflection   | Built-in & custom annotations, runtime inspection, proxies      |
+| Day |     Date    | Topic                      | Coverage                                                  |
+|-----|-------------|----------------------------|-----------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics              | classes, methods, parameters, bounded types, wildcards    |
+| 23  | 17-Jan      | Java Collections Frame-work| List, Set, Queue, Dequeue, & Map interface                |
+| 24  | 19-Jan      | Java I/O Streams           | Byte, character, buffered, object & bridge streams        |
+| 25  | 20-Jan      | Exception Handling         | Checked, unchecked, and custom exceptions                 |
+| 26  | 21-Jan      | Regex & JUnit Testing      | Pattern matching, validations, unit testing, assertions   |
+| 27  | 22-Jan      | Annotations & Reflection   | Built-in & custom annotations, runtime inspection, proxies|
 
 > ### **Week 5 : Java I/O Streams**
 
