@@ -201,4 +201,3 @@
 - 📌 [Workshop](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/smartcitymanagementsystem)
 
   
-
