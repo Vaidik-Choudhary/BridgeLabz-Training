@@ -239,3 +239,4 @@
 - 📌 [Design Principles & Patterns](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/designprinciples/librarycasestudy)
 - 📌 [Multithreading](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternConcepts/src/com/multithreading)
   
+
