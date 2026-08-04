@@ -13,7 +13,7 @@ public class StudentOperations {
 
         String url = "jdbc:mysql://localhost:3306/jdbc_practice";
         String username = "root";
-        String password = "root";
+        String password = "password";
         
 //        String sql = "INSERT INTO Student(name,email,age) VALUES(?,?,?)";
 //
