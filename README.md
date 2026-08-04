@@ -11,7 +11,7 @@
 |-----|-------------|---------------------------------|---------------------------------------|
 |   1 | 31 Jul      |Types of Databases,  Relational Databases, Non-Relational Databases, DDL, DML|**1.** Set up MySQL environment **2.** Begin ER Diagram sketch for the Health Clinic App (patients, doctors, appointments)|
 |   2 | 3 Aug       |Entity Relation Diagram principles, Table Indexing, Normalization forms|**1.** Finalise the ER Diagram for the Health Clinic App **2.** Normalize the patient/doctor/appointment schema|
-|   3 | 4 Aug       |Entity Relation Diagram principles, Table Indexing, Normalization forms|**1.** Solved Practice Questions on JOINS **2.** Explored Stored procedure and Triggers|
+|   3 | 4 Aug       |JOINS, Stored procedures, Triggers|**1.** Solved Practice Questions on JOINS **2.** Explored Stored procedure and Triggers|
 
 ---
 ##  *Key Concepts Covered*
