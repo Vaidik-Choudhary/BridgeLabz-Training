@@ -22,6 +22,7 @@ module-info.java
 .sonarlint/
 .classpath
 .project
+Servers/
 bin/
 
 # IDE - IntelliJ IDEA
