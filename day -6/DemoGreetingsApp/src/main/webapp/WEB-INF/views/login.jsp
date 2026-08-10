@@ -3,33 +3,49 @@
 
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Login</title>
+    <meta charset="UTF-8">
+    <title>Login</title>
+
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
 </head>
+
 <body>
 
-<h2>User Login</h2>
+<div class="container">
 
-<form action="/login" method="post">
+    <h2>Login</h2>
 
-    Email :
-    <input type="email" name="email" required>
-    <br><br>
+    <% if (request.getAttribute("error") != null) { %>
+        <p class="error">
+            <%= request.getAttribute("error") %>
+        </p>
+    <% } %>
 
-    Password :
-    <input type="password" name="password" required>
-    <br><br>
+    <form action="${pageContext.request.contextPath}/login" method="post">
 
-    <button type="submit">Login</button>
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="email" required>
+        </div>
 
-</form>
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" name="password" required>
+        </div>
 
-<br>
+        <button type="submit">Login</button>
 
-<p style="color:red">${error}</p>
+    </form>
 
-<a href="/register">Create New Account</a>
+    <div class="links">
+        <a href="${pageContext.request.contextPath}/register">
+            Create an account
+        </a>
+    </div>
+
+</div>
 
 </body>
 </html>

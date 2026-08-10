@@ -8,4 +8,7 @@ public interface UserService {
 
     User loginUser(String email, String password);
 
+    boolean updatePassword(Long userId, String currentPassword, String newPassword);
+
+    boolean deleteUser(Long userId);
 }

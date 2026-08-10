@@ -3,35 +3,48 @@
 
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Register</title>
+    <meta charset="UTF-8">
+    <title>Register</title>
+
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
 </head>
+
 <body>
 
-<h2>User Registration</h2>
+<div class="container">
 
-<form action="/register" method="post">
+    <h2>Create Account</h2>
 
-    Name :
-    <input type="text" name="name" required>
-    <br><br>
+    <form action="${pageContext.request.contextPath}/register" method="post">
 
-    Email :
-    <input type="email" name="email" required>
-    <br><br>
+        <div class="form-group">
+            <label>Name</label>
+            <input type="text" name="name" required>
+        </div>
 
-    Password :
-    <input type="password" name="password" required>
-    <br><br>
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="email" required>
+        </div>
 
-    <button type="submit">Register</button>
+        <div class="form-group">
+            <label>Password</label>
+            <input type="password" name="password" required>
+        </div>
 
-</form>
+        <button type="submit">Register</button>
 
-<br>
+    </form>
 
-<a href="/login">Already have an account?</a>
+    <div class="links">
+        <a href="${pageContext.request.contextPath}/login">
+            Already have an account?
+        </a>
+    </div>
+
+</div>
 
 </body>
 </html>
