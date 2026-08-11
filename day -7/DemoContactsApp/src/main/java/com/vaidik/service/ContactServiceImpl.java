@@ -8,15 +8,15 @@ import org.springframework.stereotype.Service;
 import com.vaidik.dto.ContactRequestDTO;
 import com.vaidik.dto.ContactResponseDTO;
 import com.vaidik.entity.Contact;
+import com.vaidik.exception.ContactNotFoundException;
 import com.vaidik.repository.ContactRepository;
 
 @Service
 public class ContactServiceImpl implements ContactService {
 
-    private ContactRepository contactRepository;
+    private final ContactRepository contactRepository;
 
-    @Autowired
-    public void setContactRepository(ContactRepository contactRepository) {
+    public ContactServiceImpl(ContactRepository contactRepository) {
         this.contactRepository = contactRepository;
     }
 
@@ -49,7 +49,7 @@ public class ContactServiceImpl implements ContactService {
     public ContactResponseDTO getContactById(Long id) {
 
         Contact contact = contactRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Contact not found"));
+        		.orElseThrow(() -> new ContactNotFoundException("Contact not found with id: " + id));
 
         return convertToResponseDTO(contact);
     }
@@ -58,7 +58,7 @@ public class ContactServiceImpl implements ContactService {
     public ContactResponseDTO updateContact(Long id, ContactRequestDTO request) {
 
         Contact contact = contactRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Contact not found"));
+        		.orElseThrow(() -> new ContactNotFoundException("Contact not found with id: " + id));
 
         contact.setFirstName(request.getFirstName());
         contact.setLastName(request.getLastName());
@@ -75,7 +75,7 @@ public class ContactServiceImpl implements ContactService {
     public void deleteContact(Long id) {
 
         Contact contact = contactRepository.findById(id)
-                .orElseThrow(() -> new RuntimeException("Contact not found"));
+        	    .orElseThrow(() -> new ContactNotFoundException("Contact not found with id: " + id));
 
         contactRepository.delete(contact);
     }

@@ -17,11 +17,10 @@ import jakarta.validation.Valid;
 @RequestMapping("/api/contacts")
 public class ContactController {
 
-    private ContactService contactService;
+    private final ContactService contactService;
 
-    @Autowired
-    public void setContactService(ContactService contactService) {
-        this.contactService = contactService;
+    public ContactController(ContactService contactService) {
+    	this.contactService = contactService;
     }
 
     // CREATE
