@@ -12,11 +12,12 @@
 |   1 | 31 Jul      |Types of Databases,  Relational Databases, Non-Relational Databases, DDL, DML|**1.** Set up MySQL environment **2.** Begin ER Diagram sketch for the Health Clinic App (patients, doctors, appointments)|
 |   2 | 3 Aug       |Entity Relation Diagram principles, Table Indexing, Normalization forms|**1.** Finalise the ER Diagram for the Health Clinic App **2.** Normalize the patient/doctor/appointment schema|
 |   3 | 4 Aug       |JOINS, Stored procedures, Triggers|**1.** Solved Practice Questions on JOINS **2.** Explored Stored procedure and Triggers|
-|   4 | 4-5 Aug       |JDBC to MYSQL Connection, CRUD Operations using JDBC|**1.** Practiced on JDBC Basics Using a new Maven project and a different database **2.** completed the JDBC part of Health Clinic App|
+|   4 | 5 Aug       |JDBC to MYSQL Connection, CRUD Operations using JDBC|**1.** Practiced on JDBC Basics Using a new Maven project and a different database **2.** completed the JDBC part of Health Clinic App|
 |   5 | 6 Aug       |Servlets, Tomcat server, Spring Core |**1.** Explored servlets and tomcat server **2.** built basic learning projects on spring core|
 |   6 | 7 Aug       |Spring MVC fundamentals|**1.** Explored Spring MVC **2.** Made a Demo Greetings App|
 |   7 | 10 Aug       |RESTful API, H2 Basics|**1.** Completed My Greetings App **2.** Started Contacts App|
-|   8 | 11 Aug       |API testing, mocking|**1.** Updated the Contacts App|
+|   8 | 11 Aug       |API testing, mocking|**1.** Updated the Contacts App by writing the mockito test cases on the service layer.|
+|   9 | 12 Aug       | Spring Boot, auto-configuration, starters, Spring Controller and REST API basics|**1.** Updated the Contacts App with search by name and favorite contact functionality|
 ---
 ##  *Key Concepts Covered*
 > ### DBMS
@@ -35,6 +36,9 @@
 
 > ### Spring MVC
 -  **Fundamentals**: Dispatcher servlets, Front Controller, Model View, MVC architecture, View resolver
+
+> ### Spring Boot
+-  **Fundamentals**: Spring Boot - auto-configuration, Stereotype annotations, Spring Controller and REST API basics in Spring Boot
 ---
 
 
@@ -44,5 +48,5 @@
 - 📌 [Day-1](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-1)          📌 [Day-6](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-6) 
 - 📌 [Day-2](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day-2)          📌 [Day-7](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-7)  
 - 📌 [Day-3](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-3)          📌 [Day-8](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-8) 
-- 📌 [Day-4](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-4)
+- 📌 [Day-4](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-4)          📌 [Day-9](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-9)
 - 📌 [Day-5](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-5)  
