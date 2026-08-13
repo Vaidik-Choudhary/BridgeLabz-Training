@@ -2,38 +2,34 @@ package com.vaidik.service;
 
 import java.util.List;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.vaidik.dto.ContactRequestDTO;
 import com.vaidik.dto.ContactResponseDTO;
 import com.vaidik.entity.Contact;
 import com.vaidik.exception.ContactNotFoundException;
+import com.vaidik.mapper.ContactMapper;
 import com.vaidik.repository.ContactRepository;
 
 @Service
 public class ContactServiceImpl implements ContactService {
 
     private final ContactRepository contactRepository;
+    private final ContactMapper contactMapper;
 
-    public ContactServiceImpl(ContactRepository contactRepository) {
+    public ContactServiceImpl(ContactRepository contactRepository, ContactMapper contactMapper) {
         this.contactRepository = contactRepository;
+        this.contactMapper = contactMapper;
     }
 
     @Override
     public ContactResponseDTO createContact(ContactRequestDTO request) {
 
-        Contact contact = new Contact();
-
-        contact.setFirstName(request.getFirstName());
-        contact.setLastName(request.getLastName());
-        contact.setEmail(request.getEmail());
-        contact.setPhone(request.getPhone());
-        contact.setAlternatePhone(request.getAlternatePhone());
+        Contact contact = contactMapper.toEntity(request);
 
         Contact savedContact = contactRepository.save(contact);
 
-        return convertToResponseDTO(savedContact);
+        return contactMapper.toResponseDTO(savedContact);
     }
 
     @Override
@@ -41,7 +37,7 @@ public class ContactServiceImpl implements ContactService {
 
         return contactRepository.findAll()
                 .stream()
-                .map(this::convertToResponseDTO)
+                .map(contactMapper::toResponseDTO)
                 .toList();
     }
 
@@ -51,7 +47,7 @@ public class ContactServiceImpl implements ContactService {
         Contact contact = contactRepository.findById(id)
         		.orElseThrow(() -> new ContactNotFoundException("Contact not found with id: " + id));
 
-        return convertToResponseDTO(contact);
+        return contactMapper.toResponseDTO(contact);
     }
 
     @Override
@@ -68,7 +64,7 @@ public class ContactServiceImpl implements ContactService {
 
         Contact updatedContact = contactRepository.save(contact);
 
-        return convertToResponseDTO(updatedContact);
+        return contactMapper.toResponseDTO(updatedContact);
     }
 
     @Override
@@ -86,7 +82,7 @@ public class ContactServiceImpl implements ContactService {
         return contactRepository
                 .findByFirstNameContainingIgnoreCaseOrLastNameContainingIgnoreCase(name, name)
                 .stream()
-                .map(this::convertToResponseDTO)
+                .map(contactMapper::toResponseDTO)
                 .toList();
     }
     
@@ -106,20 +102,8 @@ public class ContactServiceImpl implements ContactService {
 
         return contactRepository.findByFavoriteTrue()
                 .stream()
-                .map(this::convertToResponseDTO)
+                .map(contactMapper::toResponseDTO)
                 .toList();
     }
 
-    private ContactResponseDTO convertToResponseDTO(Contact contact) {
-
-        return new ContactResponseDTO(
-                contact.getId(),
-                contact.getFirstName(),
-                contact.getLastName(),
-                contact.getEmail(),
-                contact.getPhone(),
-                contact.getAlternatePhone(),
-                contact.isFavorite()
-        );
-    }
 }
