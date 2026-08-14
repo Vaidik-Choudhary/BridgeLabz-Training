@@ -19,6 +19,7 @@
 |   8 | 11 Aug       |API testing, mocking using Postman app and Swagger ui|**1.** Updated the Contacts App by writing the mockito test cases on the service layer.|
 |   9 | 12 Aug       | Spring Boot, auto-configuration, starters, Spring Controller and REST API basics|**1.** Updated the Contacts App with search by name and favourite contact functionality|
 |   10 | 13 Aug       |Bean injection in Spring Boot, H2 Implementation|**1.** Completed Contacts App **2.** Started Employee Payroll App|
+|   11 | 14 Aug       |Spring Services, Spring JPA & Spring JDBC|**1.** Updated Employee Payroll App & migrated to Spring Data JPA|
 ---
 ##  *Key Concepts Covered*
 > ### DBMS
@@ -46,7 +47,7 @@
 ## 🔗 *Quick Links*
 
 > ### DBMS :
-- 📌 [Day : 01](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-1)          📌 [Day : 06](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-6) 
+- 📌 [Day : 01](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-1)          📌 [Day : 06](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-6)          📌 [Day : 11](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-11) 
 - 📌 [Day : 02](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day-2)          📌 [Day : 07](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-7)  
 - 📌 [Day : 03](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-3)          📌 [Day : 08](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-8) 
 - 📌 [Day : 04](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-4)          📌 [Day : 09](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-9)
