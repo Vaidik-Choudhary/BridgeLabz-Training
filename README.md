@@ -21,6 +21,7 @@
 |   10 | 13 Aug       |Bean injection in Spring Boot, H2 Implementation|**1.** Completed Contacts App **2.** Started Employee Payroll App|
 |   11 | 14 Aug       |Spring Services, Spring JPA & Spring JDBC|**1.** Updated Employee Payroll App & migrated to Spring Data JPA|
 |   12 | 17 Aug       |Spring Scopes, Logging, Maven & Postman|**1.** Updated Employee Payroll App by adding simple loggers and OpenApi docs|
+|   13 | 18 Aug       |Spring Security & JWT Authentication|**1.** Added Fundoo Notes App with basic spring security|
 ---
 ##  *Key Concepts Covered*
 > ### DBMS
@@ -42,6 +43,9 @@
 
 > ### Spring Boot
 -  **Fundamentals**: Spring Boot - auto-configuration, Stereotype annotations, Spring Controller and REST API basics in Spring Boot, Spring Scopes, Logging
+
+> ### Spring Security
+-  **Fundamentals**:  Spring Security fundamentals, Authentication, Authorization, JWT (JSON Web Token) - token-based authentication
 ---
 
 
@@ -50,6 +54,6 @@
 > ### DBMS :
 - 📌 [Day : 01](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-1)          📌 [Day : 06](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-6)          📌 [Day : 11](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-11) 
 - 📌 [Day : 02](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day-2)          📌 [Day : 07](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-7)          📌 [Day : 12](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-12)  
-- 📌 [Day : 03](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-3)          📌 [Day : 08](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-8) 
+- 📌 [Day : 03](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-3)          📌 [Day : 08](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-8)          📌 [Day : 13](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-13) 
 - 📌 [Day : 04](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-4)          📌 [Day : 09](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-9)
 - 📌 [Day : 05](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-5)          📌 [Day : 10](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-10)  
