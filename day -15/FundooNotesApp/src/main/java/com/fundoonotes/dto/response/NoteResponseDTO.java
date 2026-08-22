@@ -1,6 +1,7 @@
 package com.fundoonotes.dto.response;
 
 import java.time.LocalDateTime;
+import java.util.Set;
 
 import com.fundoonotes.entity.Note.NoteState;
 
@@ -19,4 +20,5 @@ public class NoteResponseDTO {
     private LocalDateTime createdAt;
     private NoteState state;
     private boolean pinned;
+    private Set<TagResponseDTO> tags;
 }
