@@ -25,6 +25,7 @@
 |   14 | 19 Aug       |Authorization & JPA for Notes Management|**1.** Updated Fundoo Notes App with basic User Notes crud|
 |   15 | 20 Aug       |Organisation Modules: Pin/Archive/Trash, Search & Tags|**1.** Updated Fundoo Notes App with basic User Notes patch operations|
 |   16 | 21 Aug       |JMS (Asynchronous Messaging) & Redis Caching|**1.** Updated Fundoo Notes App with basic Redis and JMS implementations for learing|
+|   17 | 24 Aug       |Rabbit MQ & introduction to Spring Batch|**1.** Updated the Fundoo Notes App with RabbitMQ implementation for email reminders and excel export functionality"|
 ---
 ##  *Key Concepts Covered*
 > ### DBMS
@@ -49,7 +50,7 @@
 
 > ### Spring Security
 -  **Fundamentals**:  Spring Security fundamentals, Authentication, Authorization, JWT (JSON Web Token) - token-based authentication
--  **Advance**: JMS (Asynchronous Messaging) & Redis Caching
+-  **Advance**: JMS (Asynchronous Messaging), Redis Caching, Rabbit MQ, Spring Batch Basics
 ---
 
 
@@ -57,7 +58,7 @@
 
 > ### DBMS :
 - 📌 [Day : 01](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-1)          📌 [Day : 06](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-6)          📌 [Day : 11](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-11)          📌 [Day : 16](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-16) 
-- 📌 [Day : 02](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day-2)          📌 [Day : 07](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-7)          📌 [Day : 12](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-12)  
+- 📌 [Day : 02](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day-2)          📌 [Day : 07](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-7)          📌 [Day : 12](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-12)          📌 [Day : 17](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-17)  
 - 📌 [Day : 03](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-3)          📌 [Day : 08](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-8)          📌 [Day : 13](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-13) 
 - 📌 [Day : 04](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-4)          📌 [Day : 09](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-9)          📌 [Day : 14](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-14)
 - 📌 [Day : 05](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-5)          📌 [Day : 10](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-10)          📌 [Day : 15](https://github.com/Vaidik-Choudhary/BridgeLabz-Training/tree/refresher-training/day%20-15)  
