@@ -32,4 +32,10 @@ public class NoteSpecification {
 	public static Specification<Note> isPinned(boolean pinned) {
 		return (root, query, criteriaBuilder) -> criteriaBuilder.equal(root.get("pinned"), pinned);
 	}
+	
+	
+	
+	public static Specification<Note> isNotTrashed() {
+		return (root, query, criteriaBuilder) -> criteriaBuilder.notEqual(root.get("state"), Note.NoteState.TRASHED);
+	}
 }

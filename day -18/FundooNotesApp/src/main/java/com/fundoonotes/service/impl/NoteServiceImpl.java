@@ -127,13 +127,10 @@ public class NoteServiceImpl implements NoteService {
 
 		Note note = getOwnedNoteOrThrow(noteId, userId);
 
-		if (note.getState() == Note.NoteState.TRASHED) {
-			throw new InvalidNoteStateException("Cannot pin a note that is in Trash");
+		if (note.getState() != Note.NoteState.ACTIVE) {
+			throw new InvalidNoteStateException("Only active notes can be pinned");
 		}
-
-		
-		
-		
+	
 		note.setPinned(true);
 
 		Note savedNote = noteRepository.save(note);
@@ -155,10 +152,14 @@ public class NoteServiceImpl implements NoteService {
 			specification = specification.and(NoteSpecification.hasTitle(title));
 		}
 
+		
 		if (state != null) {
 			specification = specification.and(NoteSpecification.hasState(state));
+		} else {
+			specification = specification.and(NoteSpecification.isNotTrashed());
 		}
 
+		
 		if (pinned != null) {
 			specification = specification.and(NoteSpecification.isPinned(pinned));
 		}

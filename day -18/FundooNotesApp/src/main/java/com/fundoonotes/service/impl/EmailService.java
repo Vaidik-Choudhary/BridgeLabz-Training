@@ -22,8 +22,7 @@ public class EmailService {
 
 		message.setTo(email);
 		message.setSubject("FundooNotes Reminder");
-		message.setText("Hello,\n\n" + "This is a reminder for your note:\n\n" + noteTitle + "\n\n" + "Regards,\n"
-				+ "FundooNotes");
+		message.setText("Hello,\n\n" + "This is a reminder for your note:\n\n" + noteTitle + "\n\n" + "Regards,\n"+ "FundooNotes");
 
 		mailSender.send(message);
 	}
